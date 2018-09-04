@@ -1,5 +1,6 @@
 .footer{
-	color: blue;
+	margin-top: 165px;
+	color: green;
 	font-size: 12px;
 
 }
@@ -9,13 +10,14 @@
 	font-size: 15px;
 	line-height: 1.5;
 	width: 100%;
+	font-family: 'Indie Flower', cursive;
 }
 
 .container{
 	width: 500px;
 	margin: 0 auto;
 	text-align: center;
-	font-family: 'Ramaraja', serif;
+	font-family: 'Baloo Tammudu', cursive;
 }
 
 #me{
@@ -40,12 +42,12 @@ h1{
 	margin-bottom: 0;
 	/*background-color: white;*/
 	text-transform: uppercase;
-	letter-spacing: 5px
+	letter-spacing: 5px;
 }
 
 h2{
 	text-transform: uppercase;
-	letter-spacing: 5px
-	color:blue;
+	letter-spacing: 5px;
+	color:grey;
 }
 
